@@ -3087,7 +3087,7 @@ def main():
     app = QApplication(sys.argv)
     try:
 
-        es = gettext.translation('trackma-qt', utils.datadir+'/translations', [locale.getdefaultlocale()[0]])
+        es = gettext.translation('trackma-qt', utils.datadir+'/translations', [locale.getdefaultlocale()[0]], fallback=True)
         es.install()
 
         mainwindow = Trackma()
