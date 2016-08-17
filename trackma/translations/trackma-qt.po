@@ -1,0 +1,875 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-17 19:58+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: qtui.py:184
+msgid "Play &Next"
+msgstr ""
+
+#: qtui.py:185
+msgid "Play the next unwatched episode."
+msgstr ""
+
+#: qtui.py:188 qtui.py:921
+msgid "Play Episode..."
+msgstr ""
+
+#: qtui.py:189 qtui.py:922
+msgid "Select an episode to play."
+msgstr ""
+
+#: qtui.py:191
+msgid "Show &details..."
+msgstr ""
+
+#: qtui.py:192
+msgid "Show detailed information about the selected show."
+msgstr ""
+
+#: qtui.py:194
+msgid "Change &alternate name..."
+msgstr ""
+
+#: qtui.py:195
+msgid "Set an alternate title for the tracker."
+msgstr ""
+
+#: qtui.py:197
+msgid "Play &random show"
+msgstr ""
+
+#: qtui.py:198
+msgid "Pick a random show with a new episode and play it."
+msgstr ""
+
+#: qtui.py:201 qtui.py:1589
+msgid "Search/Add from Remote"
+msgstr ""
+
+#: qtui.py:204
+msgid "&Delete"
+msgstr ""
+
+#: qtui.py:205
+msgid "Remove this show from your list."
+msgstr ""
+
+#: qtui.py:207
+msgid "&Quit"
+msgstr ""
+
+#: qtui.py:209
+msgid "Exit Trackma."
+msgstr ""
+
+#: qtui.py:212
+msgid "&Sync"
+msgstr ""
+
+#: qtui.py:213
+msgid "Send changes and then retrieve remote list"
+msgstr ""
+
+#: qtui.py:216
+msgid "S&end changes"
+msgstr ""
+
+#: qtui.py:218
+msgid "Upload any changes made to the list immediately."
+msgstr ""
+
+#: qtui.py:220
+msgid "Re&download list"
+msgstr ""
+
+#: qtui.py:222
+msgid "Discard any changes made to the list and re-download it."
+msgstr ""
+
+#: qtui.py:224
+msgid "Rescan &Library"
+msgstr ""
+
+#: qtui.py:227
+msgid "Switch &Account"
+msgstr ""
+
+#: qtui.py:228
+msgid "Switch to a different account."
+msgstr ""
+
+#: qtui.py:230
+msgid "&Settings..."
+msgstr ""
+
+#: qtui.py:233
+msgid "About..."
+msgstr ""
+
+#: qtui.py:235
+msgid "About Qt..."
+msgstr ""
+
+#: qtui.py:239
+msgid "&Show"
+msgstr ""
+
+#: qtui.py:252
+msgid "Play"
+msgstr ""
+
+#: qtui.py:266
+msgid "ID"
+msgstr ""
+
+#: qtui.py:266 qtui.py:1608
+msgid "Title"
+msgstr ""
+
+#: qtui.py:266
+msgid "Progress"
+msgstr ""
+
+#: qtui.py:267
+msgid "Score"
+msgstr ""
+
+#: qtui.py:267
+msgid "Percent"
+msgstr ""
+
+#: qtui.py:267
+msgid "Next Episode"
+msgstr ""
+
+#: qtui.py:268
+msgid "Start date"
+msgstr ""
+
+#: qtui.py:268
+msgid "End date"
+msgstr ""
+
+#: qtui.py:268
+msgid "My start"
+msgstr ""
+
+#: qtui.py:269
+msgid "My finish"
+msgstr ""
+
+#: qtui.py:269
+msgid "Tags"
+msgstr ""
+
+#: qtui.py:315
+msgid "&List"
+msgstr ""
+
+#: qtui.py:322
+msgid "&Mediatype"
+msgstr ""
+
+#: qtui.py:325
+msgid "&Options"
+msgstr ""
+
+#: qtui.py:329
+msgid "&Help"
+msgstr ""
+
+#: qtui.py:361
+msgid ""
+"General Search: All fields (columns) of each show will be matched against "
+"the search term.\n"
+"Advanced Searching: A field can be specified by using its key followed by a "
+"colon e.g. 'title:My_Show date_start:2016'.\n"
+"  Any field may be specified multiple times to match terms in any order e.g. "
+"'tag:Battle+Shounen tag:Ecchi'. \n"
+"  + and _ are replaced with spaces when searching specific fields.\n"
+"  If colon is used after something that is not a column key, it will treat "
+"it as a general term.\n"
+"  ALL terms not attached to a field will be combined into a single general "
+"search term\n"
+"         - 'My date_end:2016 Show' will match shows that have 'My Show' in "
+"any field and 2016 in the End Date field.\n"
+"  Available field keys are: "
+msgstr ""
+
+#: qtui.py:388
+msgid "Progress:"
+msgstr ""
+
+#: qtui.py:391 qtui.py:2334
+msgid "Update"
+msgstr ""
+
+#: qtui.py:392
+msgid "Set number of episodes watched to the value entered above"
+msgstr ""
+
+#: qtui.py:396
+msgid ""
+"Play the next unwatched episode\n"
+"Hold to play other episodes"
+msgstr ""
+
+#: qtui.py:402
+msgid "Increment number of episodes watched"
+msgstr ""
+
+#: qtui.py:408
+msgid "Decrement number of episodes watched"
+msgstr ""
+
+#: qtui.py:409
+msgid "Score:"
+msgstr ""
+
+#: qtui.py:411
+msgid "Set"
+msgstr ""
+
+#: qtui.py:412
+msgid "Set score to the value entered above"
+msgstr ""
+
+#: qtui.py:414
+msgid "Edit Tags..."
+msgstr ""
+
+#: qtui.py:415
+msgid "Open a dialog to edit your tags for this show"
+msgstr ""
+
+#: qtui.py:418
+msgid "Change your watching status of this show"
+msgstr ""
+
+#: qtui.py:436
+msgid "Filter:"
+msgstr ""
+
+#: qtui.py:438
+msgid "Invert"
+msgstr ""
+
+#: qtui.py:440
+msgid "Case Sensitive"
+msgstr ""
+
+#: qtui.py:466
+msgid "Unsynced items: N/A"
+msgstr ""
+
+#: qtui.py:472
+msgid "Show/Hide"
+msgstr ""
+
+#: qtui.py:533
+msgid "Error: "
+msgstr ""
+
+#: qtui.py:534 qtui.py:2455 qtui.py:2747
+msgid "Error"
+msgstr ""
+
+#: qtui.py:537
+msgid "Fatal Error"
+msgstr ""
+
+#: qtui.py:537
+msgid ""
+"Fatal Error! Reason:\n"
+"\n"
+msgstr ""
+
+#: qtui.py:592
+#, python-format
+msgid "Unsynced items: %d"
+msgstr ""
+
+#: qtui.py:719
+#, python-format
+msgid "Watched: %d<br>"
+msgstr ""
+
+#: qtui.py:730
+#, python-format
+msgid "Aired (estimated): %d<br>"
+msgstr ""
+
+#: qtui.py:734
+#, python-format
+msgid "Latest available: %d<br>"
+msgstr ""
+
+#: qtui.py:737
+#, python-format
+msgid "Total: %d"
+msgstr ""
+
+#: qtui.py:754
+#, python-format
+msgid "%i days, %02d hrs."
+msgstr ""
+
+#: qtui.py:855
+msgid "Waiting..."
+msgstr ""
+
+#: qtui.py:858
+msgid "Not available"
+msgstr ""
+
+#: qtui.py:917
+msgid "Play &Next Episode"
+msgstr ""
+
+#: qtui.py:919
+#, python-format
+msgid "Play Last Watched Ep (#%d)"
+msgstr ""
+
+#: qtui.py:935
+#, python-format
+msgid "Ep. %d"
+msgstr ""
+
+#: qtui.py:956 qtui.py:977 qtui.py:998
+#, python-format
+msgid "Episodes %d-%d:"
+msgstr ""
+
+#: qtui.py:1049 qtui.py:1545
+msgid "Downloading..."
+msgstr ""
+
+#: qtui.py:1120
+msgid "Edit Tags"
+msgstr ""
+
+#: qtui.py:1121
+msgid "Enter desired tags (comma separated)"
+msgstr ""
+
+#: qtui.py:1152
+msgid "Play Episode"
+msgstr ""
+
+#: qtui.py:1153
+#, python-format
+msgid "Enter an episode number of %s to play:"
+msgstr ""
+
+#: qtui.py:1163 qtui.py:1190 qtui.py:2393 qtui.py:2404
+msgid "Confirmation"
+msgstr ""
+
+#: qtui.py:1164
+#, python-format
+msgid "Are you sure you want to delete %s?"
+msgstr ""
+
+#: qtui.py:1178
+msgid "Alternative title"
+msgstr ""
+
+#: qtui.py:1179
+#, python-format
+msgid "Set the new alternative title for %s (blank to remove):"
+msgstr ""
+
+#: qtui.py:1191
+#, python-format
+msgid ""
+"There are %d unsynced changes. Do you want to send them first? (Choosing No "
+"will discard them!)"
+msgstr ""
+
+#: qtui.py:1246
+#, python-format
+msgid "About Trackma-qt %s"
+msgstr ""
+
+#: qtui.py:1254
+msgid "About Qt"
+msgstr ""
+
+#: qtui.py:1307
+msgid "Trackma Tracker"
+msgstr ""
+
+#: qtui.py:1307
+#, python-format
+msgid "Playing %s %s. Will update in %d seconds."
+msgstr ""
+
+#: qtui.py:1324
+msgid "Message"
+msgstr ""
+
+#: qtui.py:1325
+#, python-format
+msgid "Do you want to update %s to %d?"
+msgstr ""
+
+#: qtui.py:1337 qtui.py:1422 qtui.py:1433 qtui.py:1446
+msgid "Ready."
+msgstr ""
+
+#: qtui.py:1414
+#, python-format
+msgid "Trackma-qt %s [%s (%s)]"
+msgstr ""
+
+#: qtui.py:1461
+msgid "Details"
+msgstr ""
+
+#: qtui.py:1535
+msgid "Wait..."
+msgstr ""
+
+#: qtui.py:1559
+msgid "Synopsis"
+msgstr ""
+
+#: qtui.py:1559
+msgid "English"
+msgstr ""
+
+#: qtui.py:1559
+msgid "Japanese"
+msgstr ""
+
+#: qtui.py:1559
+msgid "Synonyms"
+msgstr ""
+
+#: qtui.py:1560
+msgid "Genres"
+msgstr ""
+
+#: qtui.py:1579
+msgid "There was an error while getting details."
+msgstr ""
+
+#: qtui.py:1597
+msgid "Search terms:"
+msgstr ""
+
+#: qtui.py:1601
+msgid "Search"
+msgstr ""
+
+#: qtui.py:1608
+msgid "Type"
+msgstr ""
+
+#: qtui.py:1608
+msgid "Total"
+msgstr ""
+
+#: qtui.py:1626 qtui.py:2327
+msgid "Cancel"
+msgstr ""
+
+#: qtui.py:1627 qtui.py:2329
+msgid "Add"
+msgstr ""
+
+#: qtui.py:1717
+msgid "Settings"
+msgstr ""
+
+#: qtui.py:1722
+msgid "Media"
+msgstr ""
+
+#: qtui.py:1723
+msgid "Sync"
+msgstr ""
+
+#: qtui.py:1724
+msgid "User Interface"
+msgstr ""
+
+#: qtui.py:1725
+msgid "Theme"
+msgstr ""
+
+#: qtui.py:1738
+msgid "Media settings"
+msgstr ""
+
+#: qtui.py:1743
+msgid "Local"
+msgstr ""
+
+#: qtui.py:1745
+msgid "Plex media server"
+msgstr ""
+
+#: qtui.py:1759
+msgid "Enable tracker"
+msgstr ""
+
+#: qtui.py:1762
+msgid "Tracker interval (seconds)"
+msgstr ""
+
+#: qtui.py:1763
+msgid "Process name (regex)"
+msgstr ""
+
+#: qtui.py:1764
+msgid "Plex host"
+msgstr ""
+
+#: qtui.py:1765
+msgid "Plex port"
+msgstr ""
+
+#: qtui.py:1766
+msgid "Wait before updating (seconds)"
+msgstr ""
+
+#: qtui.py:1767
+msgid "Wait until the player is closed"
+msgstr ""
+
+#: qtui.py:1768
+msgid "Ask before updating"
+msgstr ""
+
+#: qtui.py:1773
+msgid "Play Next"
+msgstr ""
+
+#: qtui.py:1776 qtui.py:1779
+msgid "Browse..."
+msgstr ""
+
+#: qtui.py:1784
+msgid "Player"
+msgstr ""
+
+#: qtui.py:1787
+msgid "Media directory"
+msgstr ""
+
+#: qtui.py:1790
+msgid "Rescan Library at startup"
+msgstr ""
+
+#: qtui.py:1806
+msgid "Autoretrieve"
+msgstr ""
+
+#: qtui.py:1808 qtui.py:1825
+msgid "Disabled"
+msgstr ""
+
+#: qtui.py:1809
+msgid "Always at start"
+msgstr ""
+
+#: qtui.py:1810
+msgid "After n days"
+msgstr ""
+
+#: qtui.py:1823
+msgid "Autosend"
+msgstr ""
+
+#: qtui.py:1826
+msgid "Immediately after every change"
+msgstr ""
+
+#: qtui.py:1827
+msgid "After n hours"
+msgstr ""
+
+#: qtui.py:1831
+msgid "After the queue reaches n items"
+msgstr ""
+
+#: qtui.py:1835
+msgid "At exit"
+msgstr ""
+
+#: qtui.py:1848
+msgid "Additional options"
+msgstr ""
+
+#: qtui.py:1850
+msgid "Change status automatically"
+msgstr ""
+
+#: qtui.py:1852
+msgid "Change status automatically only if scored"
+msgstr ""
+
+#: qtui.py:1853
+msgid "Change start and finish dates automatically"
+msgstr ""
+
+#: qtui.py:1872
+msgid "Notification Icon"
+msgstr ""
+
+#: qtui.py:1874
+msgid "Show tray icon"
+msgstr ""
+
+#: qtui.py:1876
+msgid "Close to tray"
+msgstr ""
+
+#: qtui.py:1877
+msgid "Start minimized to tray"
+msgstr ""
+
+#: qtui.py:1878
+msgid "Use API icon as tray icon"
+msgstr ""
+
+#: qtui.py:1879
+msgid "Show notification when tracker detects new media"
+msgstr ""
+
+#: qtui.py:1889
+msgid "Window"
+msgstr ""
+
+#: qtui.py:1891
+msgid "Remember window size and position"
+msgstr ""
+
+#: qtui.py:1892
+msgid "Remember column layouts and widths"
+msgstr ""
+
+#: qtui.py:1893
+msgid "Use different visible columns per API"
+msgstr ""
+
+#: qtui.py:1901
+msgid "Lists"
+msgstr ""
+
+#: qtui.py:1904
+msgid "Hidden"
+msgstr ""
+
+#: qtui.py:1905
+msgid "Above lists"
+msgstr ""
+
+#: qtui.py:1906
+msgid "Below lists"
+msgstr ""
+
+#: qtui.py:1909
+msgid "Update filter for all lists (slow)"
+msgstr ""
+
+#: qtui.py:1911
+msgid "Filter bar position:"
+msgstr ""
+
+#: qtui.py:1927
+msgid "Episode Bar"
+msgstr ""
+
+#: qtui.py:1936
+msgid "Show text label"
+msgstr ""
+
+#: qtui.py:1938
+msgid "Style:"
+msgstr ""
+
+#: qtui.py:1943
+msgid "Color Scheme"
+msgstr ""
+
+#: qtui.py:1945
+msgid "&Row highlights"
+msgstr ""
+
+#: qtui.py:1946
+msgid "&Progress widget"
+msgstr ""
+
+#: qtui.py:1948
+msgid "Playing"
+msgstr ""
+
+#: qtui.py:1949
+msgid "Queued"
+msgstr ""
+
+#: qtui.py:1950
+msgid "New Episode"
+msgstr ""
+
+#: qtui.py:1951
+msgid "Airing"
+msgstr ""
+
+#: qtui.py:1952
+msgid "Unaired"
+msgstr ""
+
+#: qtui.py:1953
+msgid "Background"
+msgstr ""
+
+#: qtui.py:1954
+msgid "Watched bar"
+msgstr ""
+
+#: qtui.py:1955
+msgid "Aired episodes"
+msgstr ""
+
+#: qtui.py:1956
+msgid "Stored episodes"
+msgstr ""
+
+#: qtui.py:1957
+msgid "Complete"
+msgstr ""
+
+#: qtui.py:1972
+msgid "System Colors"
+msgstr ""
+
+#: qtui.py:2216 qtui.py:2218
+msgid "Choose player executable"
+msgstr ""
+
+#: qtui.py:2221
+msgid "Choose media directory"
+msgstr ""
+
+#: qtui.py:2254
+msgid "Select Color"
+msgstr ""
+
+#: qtui.py:2311
+msgid "Select Account"
+msgstr ""
+
+#: qtui.py:2324
+msgid "Remember"
+msgstr ""
+
+#: qtui.py:2333
+msgid "Edit..."
+msgstr ""
+
+#: qtui.py:2335
+msgid "Delete"
+msgstr ""
+
+#: qtui.py:2336
+msgid "Purge"
+msgstr ""
+
+#: qtui.py:2337
+msgid "Change the local password/PIN for this account"
+msgstr ""
+
+#: qtui.py:2338
+msgid "Remove this account from Trackma"
+msgstr ""
+
+#: qtui.py:2339
+msgid "Clear local DB for this account"
+msgstr ""
+
+#: qtui.py:2343
+msgid "Select"
+msgstr ""
+
+#: qtui.py:2388 qtui.py:2399 qtui.py:2410 qtui.py:2448
+msgid "Please select an account."
+msgstr ""
+
+#: qtui.py:2393
+msgid "Do you want to delete the selected account?"
+msgstr ""
+
+#: qtui.py:2404
+msgid "Do you want to purge the selected account's local data?"
+msgstr ""
+
+#: qtui.py:2423
+msgid "Username"
+msgstr ""
+
+#: qtui.py:2423
+msgid "Site"
+msgstr ""
+
+#: qtui.py:2512
+msgid "%Y-%m-%d"
+msgstr ""
+
+#: qtui.py:2670 qtui.py:2741
+msgid "Username:"
+msgstr ""
+
+#: qtui.py:2674 qtui.py:2742
+msgid "Password:"
+msgstr ""
+
+#: qtui.py:2678
+msgid "Request PIN"
+msgstr ""
+
+#: qtui.py:2685
+msgid "Site:"
+msgstr ""
+
+#: qtui.py:2713
+msgid "Please fill the credentials fields."
+msgstr ""
+
+#: qtui.py:2715
+msgid "Please fill the username field."
+msgstr ""
+
+#: qtui.py:2717
+msgid "Please fill the password/PIN field."
+msgstr ""
+
+#: qtui.py:2734
+msgid "<a href=\"{}\">Request PIN</a>"
+msgstr ""
+
+#: qtui.py:2737
+msgid "Name:"
+msgstr ""
+
+#: qtui.py:2738
+msgid "PIN:"
+msgstr ""
